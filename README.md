@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Othmanosx/othmanosx/main/wave.gif" width="30px"> I'm Othman
+### Hi there <img src="https://raw.githubusercontent.com/Othmanosx/othmanosx/main/wave.gif" width="30px" height="30px"> I'm Othman
 
 [![Linkedin Badge](https://img.shields.io/badge/-othmanosx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/othmanosx/)](https://www.linkedin.com/in/othmanosx/)
 [![Instagram Badge](https://img.shields.io/badge/-othmanosx-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/othmanosx/)](https://instagram.com/othmanosx)

@@ -17,6 +17,7 @@ Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmai
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraghQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FF8A65?style=flat-square&logo=Firebase&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=Redux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)

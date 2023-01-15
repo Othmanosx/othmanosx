@@ -25,7 +25,8 @@ Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmai
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=othmanosx&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></span>
+<div align="center" >
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=othmanosx&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></span> -->
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Othmanosx's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=othmanosx&theme=monokai-metallian&hide_border=true"/>

@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@othmanosx-00acee?style=flat-square&labelColor=00acee&logo=Twitter&logoColor=fff&link=https://twitter.com/@othmanosx/)](https://twitter.com/@othmanosx)
 [![Gmail Badge](https://img.shields.io/badge/-othmanosx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:othmanosx@gmail.com)](mailto:othmanosx@gmail.com)
 
-A Software Engineer specialised in Frontend Web Development, currently working at Proxify.<br/>
+A Software Engineer specializing in Frontend Web Development.<br/>
 Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
